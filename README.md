@@ -10,7 +10,7 @@
 ---------------
 #### https://www.parse.com/apps/quickstart
 
-- add
+- file copy frameworks to project at AppDelegate.swift level
 '''
 Bolts.framework, Parse.framework to project
 '''
