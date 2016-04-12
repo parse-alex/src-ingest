@@ -23,7 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
          
          ParseMutableClientConfiguration.applicationId = "100";
          ParseMutableClientConfiguration.clientKey = "123456";
-         ParseMutableClientConfiguration.server = "http://192.168.1.114:1337/parse";
+         ParseMutableClientConfiguration.server = "http://localhost:1337/parse";
          });
         
          Parse.initializeWithConfiguration(config);
