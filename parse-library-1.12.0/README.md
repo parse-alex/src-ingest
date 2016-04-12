@@ -22,3 +22,6 @@ libz.tbd
 libsqlite3.tbd
 '''
 
+- replace AppDelegate.swift with the one in this directory
+
+- compile and run
